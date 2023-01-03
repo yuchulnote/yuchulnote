@@ -4,7 +4,8 @@
 ### 📖 Education
 <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
 > 🏫 B.S. Student, **Department of Robotics**, Kwangwoon University. (2022.3~)<br>
->> Major in Intelligent System<br>
+>> Major in Intelligent System
+<br>
 > ⚜️ Club : **BARAM** (Robotics Academic Group).(2022.3~)<br>
 >> Club President(2023.1~)<br>
 
