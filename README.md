@@ -4,9 +4,9 @@
 ### 📖 Education
 <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
 > 🏫 B.S. Student, **Department of Robotics**, Kwangwoon University. (2022.3~)<br>
->   Major in Intelligent System<br>
+>> Major in Intelligent System<br>
 > ⚜️ Club : **BARAM** (Robotics Academic Group).(2022.3~)<br>
->   Club President(2023.1~)<br>
+>> Club President(2023.1~)<br>
 
 ### 💭 I'm Interest in   
 > 🔎 **Strong AI**   
@@ -14,7 +14,7 @@
 > 🔎 **JARVIS (Iron Man), Humanoid AI Assistant**   
 
 ### 👉 About Me
-> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://yuchulnote.github.io/)
+> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%30blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://yuchulnote.github.io/)
 
 <!-- 나중에 추가하기
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)
