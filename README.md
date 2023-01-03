@@ -14,7 +14,7 @@
 > 🔎 **JARVIS (Iron Man), Humanoid AI Assistant**   
 
 ### 👉 About Me
-> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%30blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://yuchulnote.github.io/)
+> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://yuchulnote.github.io/)
 
 <!-- 나중에 추가하기
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)
