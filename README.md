@@ -42,6 +42,7 @@
 ### Design & Collaboration Tools
 [![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion&perline=10&theme=light)](https://skillicons.dev)
 <br>
+<br>
 
 ### 🏆 Awards
 > 2023 2차 노원 대학연합창업캠프, 장려상<br>
