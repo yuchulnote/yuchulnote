@@ -34,7 +34,7 @@
 [![Programming & Tech Stack](https://skillicons.dev/icons?i=py,md,c,linux,flutter,dart&perline=9&theme=light)](https://skillicons.dev)
 
 ### Library
-[![Programming & Tech Stack](https://skillicons.dev/icons?i=ai,pytorch,tensorflow&perline=9&theme=light)](https://skillicons.dev)
+[![Programming & Tech Stack](https://skillicons.dev/icons?i=ai,pytorch,tensorflow,opencv&perline=9&theme=light)](https://skillicons.dev)
   
 ### IDE & Framework
 [![Programming & Tech Stack](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,qt,anaconda&perline=9&theme=light)](https://skillicons.dev)
