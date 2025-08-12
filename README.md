@@ -11,12 +11,13 @@
 <br>
 
 ### :fire: Experience
-> Representative of "대리의신5호점" (2022.2~)<br>
+> Representative of "대리의신5호점" (2021.2~)<br>
 > Developer of "대리의신" (2022.08 ~ 2023.05)<br>
 > Internship of "Petnow", Backend AI (2023.06 ~ 2023.12)<br>
 > Smile Gate Member of 'AI Future Lab, 3rd' (2023.06 ~ 2023.12)<br>
 > AI Webtoon Search Engine "ODI", Cofounder & Developer (2023.07 ~ 2023.12)<br>
-> AI Muscle Activity Analysis Device "MuscleSync", Cofounder & CTO(COO) (2024.01 ~ 2025.03)<br>
+> AI Muscle Activity Analysis Device "MuscleSync", Cofounder & CTO(COO) (2024.01 ~ 2025.03)
+> Technical Development Div. Manager of "HospiCare" (2025.06~)<br>
 <br>
 
 <!-- 나중에 추가하기
